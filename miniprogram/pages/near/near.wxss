@@ -1,0 +1,3 @@
+/* miniprogram/pages/near/near.wxss */
+.map{width:100%; height:100%; position:absolute; top:0; left:0;}
+.map map{width:100%; height:100%;}

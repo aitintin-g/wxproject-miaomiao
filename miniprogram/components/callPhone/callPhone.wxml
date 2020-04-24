@@ -1,0 +1,2 @@
+<!--components/callPhoto/callPhoto.wxml-->
+<text bindtap="handleCallphone" class="iconfont icondadianhua"></text>
